@@ -1,6 +1,6 @@
 {
   "name": "element-action",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple, fast and composable library for creating reactive web interfaces",
   "main": "dist/element-action.js",
   "files": [

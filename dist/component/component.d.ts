@@ -48,9 +48,9 @@ export declare class Component extends ClassAction<IComponentActionContext> {
      * a very abstract position and much is left to the reactions to
      * determine how the element is processed. This function mostly just
      * provides the overall framework for the processing which is to
-     * recursively process the element and its descendants (until `process`
+     * recursively process the element and its descendants (until `act`
      * has been called on all elements in the tree or a reaction uses the
-     * shared context to inform the active component that a given element is
+     * shared context to inform the component that a given element is
      * 'closed').
      *
      * @example

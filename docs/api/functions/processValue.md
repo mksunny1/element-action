@@ -47,4 +47,4 @@ console.log(result)  // { 'planets.jupiter': { call: [] } }
 
 ## Defined in
 
-[src/component/component-action.ts:164](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/src/component/component-action.ts#L164)
+[src/component/component-action.ts:164](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/src/component/component-action.ts#L164)

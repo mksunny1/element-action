@@ -76,7 +76,7 @@ const classAction = new ClassAction()
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:69](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L69)
+[node\_modules/class-action/dist/class-action.d.ts:69](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L69)
 
 ## Properties
 
@@ -94,7 +94,7 @@ const classAction = new ClassAction()
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:57](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L57)
+[node\_modules/class-action/dist/class-action.d.ts:57](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L57)
 
 ***
 
@@ -120,7 +120,7 @@ const myClassAction = new ClassAction(reaction1, reaction2);
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:56](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L56)
+[node\_modules/class-action/dist/class-action.d.ts:56](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L56)
 
 ***
 
@@ -130,7 +130,7 @@ const myClassAction = new ClassAction(reaction1, reaction2);
 
 #### Defined in
 
-[src/component/component-action.ts:62](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/src/component/component-action.ts#L62)
+[src/component/component-action.ts:62](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/src/component/component-action.ts#L62)
 
 ***
 
@@ -140,7 +140,7 @@ const myClassAction = new ClassAction(reaction1, reaction2);
 
 #### Defined in
 
-[src/component/component-action.ts:66](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/src/component/component-action.ts#L66)
+[src/component/component-action.ts:66](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/src/component/component-action.ts#L66)
 
 ***
 
@@ -150,7 +150,7 @@ const myClassAction = new ClassAction(reaction1, reaction2);
 
 #### Defined in
 
-[src/component/component-action.ts:64](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/src/component/component-action.ts#L64)
+[src/component/component-action.ts:64](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/src/component/component-action.ts#L64)
 
 ***
 
@@ -181,7 +181,7 @@ const myClassAction2 = new MyClassAction();
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:44](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L44)
+[node\_modules/class-action/dist/class-action.d.ts:44](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L44)
 
 ***
 
@@ -191,7 +191,7 @@ const myClassAction2 = new MyClassAction();
 
 #### Defined in
 
-[src/component/component-action.ts:63](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/src/component/component-action.ts#L63)
+[src/component/component-action.ts:63](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/src/component/component-action.ts#L63)
 
 ***
 
@@ -201,7 +201,7 @@ const myClassAction2 = new MyClassAction();
 
 #### Defined in
 
-[src/component/component-action.ts:65](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/src/component/component-action.ts#L65)
+[src/component/component-action.ts:65](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/src/component/component-action.ts#L65)
 
 ## Methods
 
@@ -227,7 +227,7 @@ the path referenced in the element attribute(s).
 
 #### Defined in
 
-[src/component/component-action.ts:75](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/src/component/component-action.ts#L75)
+[src/component/component-action.ts:75](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/src/component/component-action.ts#L75)
 
 ***
 
@@ -253,7 +253,7 @@ Adds the given reactions to the list of reactions with the key.
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:194](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L194)
+[node\_modules/class-action/dist/class-action.d.ts:194](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L194)
 
 ***
 
@@ -293,7 +293,7 @@ myClassAction.act()
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:187](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L187)
+[node\_modules/class-action/dist/class-action.d.ts:187](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L187)
 
 ***
 
@@ -319,7 +319,7 @@ myClassAction.act()
 
 #### Defined in
 
-[src/component/component-action.ts:90](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/src/component/component-action.ts#L90)
+[src/component/component-action.ts:90](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/src/component/component-action.ts#L90)
 
 ***
 
@@ -357,7 +357,7 @@ myClassAction.doAction({ msg: 'nice work' });
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:151](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L151)
+[node\_modules/class-action/dist/class-action.d.ts:151](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L151)
 
 ***
 
@@ -395,7 +395,7 @@ myClassAction.doReactions({ msg: 'nice work' });
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:168](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L168)
+[node\_modules/class-action/dist/class-action.d.ts:168](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L168)
 
 ***
 
@@ -433,7 +433,7 @@ myClassAction.getAllReactions();
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:118](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L118)
+[node\_modules/class-action/dist/class-action.d.ts:118](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L118)
 
 ***
 
@@ -467,7 +467,7 @@ myClassAction.getReactions();
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:100](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L100)
+[node\_modules/class-action/dist/class-action.d.ts:100](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L100)
 
 ***
 
@@ -491,7 +491,7 @@ Removes the reactions with the specified keys.
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:213](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L213)
+[node\_modules/class-action/dist/class-action.d.ts:213](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L213)
 
 ***
 
@@ -524,7 +524,7 @@ myClassAction.removeReactions(reaction2);
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:206](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L206)
+[node\_modules/class-action/dist/class-action.d.ts:206](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L206)
 
 ***
 
@@ -566,4 +566,4 @@ MyClassAction.getReactions();
 
 #### Defined in
 
-[node\_modules/class-action/dist/class-action.d.ts:86](https://github.com/mksunny1/active-component/blob/ab3eae5e00c8ea5a02ab14e0fd89ac76a2d7babd/node_modules/class-action/dist/class-action.d.ts#L86)
+[node\_modules/class-action/dist/class-action.d.ts:86](https://github.com/mksunny1/element-action/blob/069387d31a8c3558646d97c8e67f5eae108721ba/node_modules/class-action/dist/class-action.d.ts#L86)

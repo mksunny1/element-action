@@ -72,7 +72,7 @@ console.log(element.querySelector('section').textContent);  // 11
 
 ## Documentation
 
-This library exports class actions for common reactive actions, like data binding. Learn about them [here](./docs/api/classes/Component.md). Loops and conditionals have been deliberately omitted to avoid complicating the library. In scenarios where you need those functions, it is best to use the library within your code to achieve whatever effect you need. This is trivial to implement.
+This library exports class actions for common reactive actions, like data binding. Learn about them [here](_media/Component.md). Loops and conditionals have been deliberately omitted to avoid complicating the library. In scenarios where you need those functions, it is best to use the library within your code to achieve whatever effect you need. This is trivial to implement.
 
 ## Contributing
 
