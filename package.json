@@ -1,0 +1,51 @@
+{
+  "name": "element-action",
+  "version": "1.0.0",
+  "description": "A simple, fast and composable library for creating reactive web interfaces",
+  "main": "dist/element-action.js",
+  "files": [
+    "dist/*"
+  ],
+  "type": "module",
+  "types": "./dist/element-action.d.ts",
+  "exports": {
+    ".": {
+      "default": "./dist/element-action.js"
+    }
+  },
+  "scripts": {
+    "test": "node --test",
+    "doc": "npx typedoc --plugin typedoc-plugin-markdown --out ./docs/api ./src/*.ts",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mksunny1/element-action.git"
+  },
+  "keywords": [
+    "element-action",
+    "JavaScript",
+    "composable",
+    "meta-programming",
+    "reactivity",
+    "directive",
+    "attribute",
+    "Data binding"
+  ],
+  "author": "Mark Sun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mksunny1/element-action/issues"
+  },
+  "homepage": "https://github.com/mksunny1/element-action#readme",
+  "devDependencies": {
+    "jsdom": "^24.1.0",
+    "typedoc": "^0.26.1",
+    "typedoc-plugin-markdown": "^4.1.0",
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "action-object": "^1.0.2",
+    "class-action": "^1.0.2"
+  }
+}
